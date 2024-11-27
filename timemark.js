@@ -19,3 +19,4 @@ const elapsedTime = (end - start) / 1000;
 console.log("JavaScript Benchmark:");
 console.log(`Time elapsed: ${elapsedTime.toFixed(4)} seconds`);
 console.log(`Result: ${result.toFixed(2)}`);
+console.log('-----------------------------------------------------')

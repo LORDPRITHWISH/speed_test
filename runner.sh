@@ -10,4 +10,8 @@ node timemark.js
 
 echo "Running on PyPy3"
 pypy3 timemark.py
+
+rustc timemark.rs
+./timemark
+
 echo "Done"

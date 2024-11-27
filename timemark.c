@@ -21,6 +21,7 @@ int main() {
     printf("C Benchmark:\n");
     printf("Time elapsed: %.4f seconds\n", elapsed_time);
     printf("Result: %.2f\n", result);
+    printf("---------------------------------\n");
 
     return 0;
 }

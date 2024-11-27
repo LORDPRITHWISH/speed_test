@@ -22,6 +22,7 @@ int main() {
     std::cout << "C++ Benchmark:\n";
     std::cout << "Time elapsed: " << elapsed_time.count() << " seconds\n";
     std::cout << "Result: " << result << std::endl;
+    std::cout << "---------------------------------\n";
 
     return 0;
 }

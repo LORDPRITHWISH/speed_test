@@ -17,3 +17,4 @@ elapsed_time = end - start
 print("Python Benchmark:")
 print(f"Time elapsed: {elapsed_time:.4f} seconds")
 print(f"Result: {result:.2f}")
+print('---------------------------------------------------')
